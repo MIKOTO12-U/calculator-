@@ -1,4 +1,3 @@
-
 print("Simple Calculator")
 print("Choose an operation:")
 print("1. Add")
@@ -31,4 +30,4 @@ elif choice == '4':
         print("Error: Division by zero is not allowed.")
 
 else:
-    print("Invalid input. Please choose 1, 2, 3, or 4.")  
+    print("Invalid input. Please choose 1, 2, 3, or 4.")
