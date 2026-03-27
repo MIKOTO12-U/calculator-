@@ -1,4 +1,3 @@
-# Simple Calculator in Python
 
 print("Simple Calculator")
 print("Choose an operation:")
